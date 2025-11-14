@@ -13,6 +13,10 @@ Bookmarklet to scan a page for user-preference media queries because accessibili
 ### Latest Release
 [![Latest Release](https://img.shields.io/github/v/release/MewenLeHo/prefers-scan?label=latest&style=flat)](https://github.com/MewenLeHo/prefers-scan/releases/latest)
 
+## Demo
+
+[Check out the demo](https://mewenleho.github.io/prefers-scan/)
+
 ## Project Information
 
 **Repository**:

@@ -4,5 +4,5 @@ All notable changes to this project will be documented in this file. This projec
 
 ## [Unreleased]
 
-## [1.0.0] – 2025-10-22
+## [1.0.0] – 2025-11-14
 
